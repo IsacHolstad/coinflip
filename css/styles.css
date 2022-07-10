@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 
@@ -9,7 +9,5 @@ body{
 div{
     width: 95%;
     height: 700px;
-    align-items: center;
-    justify-content: center;
     background-color: red;
 }
