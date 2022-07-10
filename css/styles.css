@@ -1,8 +1,15 @@
 *{
     margin: 0;
-    padding: 0px;
+    padding: 0;
 }
 
 body{
     
+}
+div{
+    width: 95%;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
 }
